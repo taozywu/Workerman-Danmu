@@ -11,7 +11,7 @@ GatewayWorker框架文档：http://www.workerman.net/gatewaydoc/
  * 掉线自动重连
  * 支持多服务器部署
  * 业务逻辑全部在一个文件中，快速入门可以参考这个文件[Applications/Danmu/Event.php](https://github.com/xbw12138/Workerman-Danmu/blob/master/Applications/Danmu/Event.php)   
- ![image](https://github.com/xbw12138/Workerman-Danmu/shortscreen.png)
+ ![image](https://github.com/xbw12138/Workerman-Danmu/blob/master/shortscreen.png)
 下载安装
 =====
 1、git clone https://github.com/xbw12138/Workerman-Danmu
